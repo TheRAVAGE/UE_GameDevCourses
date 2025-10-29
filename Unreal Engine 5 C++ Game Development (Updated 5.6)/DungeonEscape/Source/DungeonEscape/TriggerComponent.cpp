@@ -29,18 +29,33 @@ void UTriggerComponent::BeginPlay()
 void UTriggerComponent::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
+	Trigger(IsTriggered);
 }
 
 void UTriggerComponent::OnOverlapBegin(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
 {
-	if (Mover) {
-		Mover->ShouldMove = true;
+	if (OtherActor && OtherActor->ActorHasTag("PressurePlateActivator")) {
+		ActivatorCount++; //Increase by 1
+		if (!IsTriggered) {
+			Trigger(true);
+		}
 	}
+
 }
 
 void UTriggerComponent::OnOverlapEnd(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex)
 {
+	if (OtherActor && OtherActor->ActorHasTag("PressurePlateActivator")) {
+		ActivatorCount--; //Decrease by 1
+		if (IsTriggered && ActivatorCount <= 0) {
+			Trigger(false);
+		}
+	}
+}
+
+void UTriggerComponent::Trigger(bool NewTriggerValue) {
+	IsTriggered = NewTriggerValue;
 	if (Mover) {
-		Mover->ShouldMove = false;
+		Mover->SetShouldMove(NewTriggerValue);
 	}
 }
