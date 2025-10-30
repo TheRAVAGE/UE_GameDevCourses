@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Development (Updated 5.6)/ObstacleAssault/Content/Assets/Levels/MainLevel.umap",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Development (Updated 5.6)/ObstacleAssault/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Development (Updated 5.6)/ObstacleAssault/Content/Assets/Blueprints/BP_MovingPlatform.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Development (Updated 5.6)/ObstacleAssault/Content/Assets/Blueprints/BP_RotatingPlatform.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Development (Updated 5.6)/ObstacleAssault/Content/Assets/Blueprints/BP_MovingPlatform2.uasset"
+			]
+		}
+	]
+}

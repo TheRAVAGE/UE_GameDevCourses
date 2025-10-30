@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\unreal 5 project\\ue_gamedevcourses\\unreal engine 5 c++ game development (updated 5.6)\\introcppproject\\source\\introcppproject\\introcppproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\unreal 5 project\\ue_gamedevcourses\\unreal engine 5 c++ game development (updated 5.6)\\introcppproject\\intermediate\\build\\win64\\x64\\introcppprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourses\\unreal engine 5 c++ game development (updated 5.6)\\introcppproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\introcppproject\\definitions.introcppproject.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourses\\unreal engine 5 c++ game development (updated 5.6)\\introcppproject\\source\\introcppproject\\introcppproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

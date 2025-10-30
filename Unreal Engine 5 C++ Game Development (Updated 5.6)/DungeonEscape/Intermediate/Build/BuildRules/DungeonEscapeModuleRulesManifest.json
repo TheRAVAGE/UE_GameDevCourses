@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\Unreal 5 Project\\UE_GameDevCourse\\Unreal Engine 5 C++ Game Development (Updated 5.6)\\DungeonEscape\\Source\\DungeonEscape\\DungeonEscape.Build.cs",
+		"D:\\Projects\\Unreal 5 Project\\UE_GameDevCourse\\Unreal Engine 5 C++ Game Development (Updated 5.6)\\DungeonEscape\\Source\\DungeonEscape.Target.cs",
+		"D:\\Projects\\Unreal 5 Project\\UE_GameDevCourse\\Unreal Engine 5 C++ Game Development (Updated 5.6)\\DungeonEscape\\Source\\DungeonEscapeEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

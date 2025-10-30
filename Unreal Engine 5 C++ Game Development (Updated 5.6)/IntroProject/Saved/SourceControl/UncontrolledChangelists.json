@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Development (Updated 5.6)/IntroProject/Content/BP_Hello.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Development (Updated 5.6)/IntroProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/92/4SEWZ2GEKCHAWUHJU1GDIW.uasset",
+				"C:/Users/iamak/OneDrive - Mainetti India Pvt Ltd/GameDevCourses/Unreal Engine 5 C++ Game Development (Updated 5.6)/IntroProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/74/CAUZYVMLP6OUFUZ96FVNRY.uasset",
+				"C:/Users/iamak/OneDrive - Mainetti India Pvt Ltd/GameDevCourses/Unreal Engine 5 C++ Game Development (Updated 5.6)/IntroProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/6M/3G781BVPW8R9J1SN3B1RGQ.uasset",
+				"C:/Users/iamak/OneDrive - Mainetti India Pvt Ltd/GameDevCourses/Unreal Engine 5 C++ Game Development (Updated 5.6)/IntroProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/6E/BQ3SB523N2C9XZGZSYE2D7.uasset",
+				"C:/Users/iamak/OneDrive - Mainetti India Pvt Ltd/GameDevCourses/Unreal Engine 5 C++ Game Development (Updated 5.6)/IntroProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/2Z/BOGDTD5LJ1G2PC8HM172V6.uasset",
+				"C:/Users/iamak/OneDrive - Mainetti India Pvt Ltd/GameDevCourses/Unreal Engine 5 C++ Game Development (Updated 5.6)/IntroProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/ZB/NO9N3SOG8WDWNATTK9RVIB.uasset",
+				"C:/Users/iamak/OneDrive - Mainetti India Pvt Ltd/GameDevCourses/Unreal Engine 5 C++ Game Development (Updated 5.6)/IntroProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/CD/QPJ0AADNHXDA58GGAP5704.uasset",
+				"C:/Users/iamak/OneDrive - Mainetti India Pvt Ltd/GameDevCourses/Unreal Engine 5 C++ Game Development (Updated 5.6)/IntroProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/UO/H9VSIZ7OL6LPG4QDVHKEY2.uasset",
+				"C:/Users/iamak/OneDrive - Mainetti India Pvt Ltd/GameDevCourses/Unreal Engine 5 C++ Game Development (Updated 5.6)/IntroProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/C5/1HOH91W23HRF8XP38CVAST.uasset",
+				"C:/Users/iamak/OneDrive - Mainetti India Pvt Ltd/GameDevCourses/Unreal Engine 5 C++ Game Development (Updated 5.6)/IntroProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/XY/SS3TKSXR3739RK6H90EB4E.uasset",
+				"C:/Users/iamak/OneDrive - Mainetti India Pvt Ltd/GameDevCourses/Unreal Engine 5 C++ Game Development (Updated 5.6)/IntroProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/6M/9PE4XTP2TRQGHOHJV29ILS.uasset",
+				"C:/Users/iamak/OneDrive - Mainetti India Pvt Ltd/GameDevCourses/Unreal Engine 5 C++ Game Development (Updated 5.6)/IntroProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/E4/6V02WWUSUOHDEBHNRSYSEX.uasset"
+			]
+		}
+	]
+}

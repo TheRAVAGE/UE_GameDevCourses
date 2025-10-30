@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\obstacleassault\\source\\obstacleassault\\obstacleassaultgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\obstacleassault\\intermediate\\build\\win64\\x64\\obstacleassault\\development\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\obstacleassault\\intermediate\\build\\win64\\x64\\unrealgame\\development\\obstacleassault\\definitions.obstacleassault.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\obstacleassault\\source\\obstacleassault\\obstacleassaultgamemode.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\obstacleassault\\intermediate\\build\\win64\\unrealgame\\inc\\obstacleassault\\uht\\obstacleassaultgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

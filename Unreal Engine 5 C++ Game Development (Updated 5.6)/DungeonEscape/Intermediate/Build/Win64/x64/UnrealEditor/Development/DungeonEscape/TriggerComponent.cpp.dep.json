@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\dungeonescape\\source\\dungeonescape\\triggercomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\dungeonescape\\intermediate\\build\\win64\\x64\\dungeonescapeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\dungeonescape\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dungeonescape\\definitions.dungeonescape.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\dungeonescape\\source\\dungeonescape\\triggercomponent.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\dungeonescape\\source\\dungeonescape\\mover.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\dungeonescape\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonescape\\uht\\mover.generated.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\dungeonescape\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonescape\\uht\\triggercomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

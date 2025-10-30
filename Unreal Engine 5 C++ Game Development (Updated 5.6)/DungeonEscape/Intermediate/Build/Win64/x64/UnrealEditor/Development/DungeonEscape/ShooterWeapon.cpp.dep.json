@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\dungeonescape\\source\\dungeonescape\\variant_shooter\\weapons\\shooterweapon.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\dungeonescape\\intermediate\\build\\win64\\x64\\dungeonescapeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\dungeonescape\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dungeonescape\\definitions.dungeonescape.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\dungeonescape\\source\\dungeonescape\\variant_shooter\\weapons\\shooterweapon.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\dungeonescape\\source\\dungeonescape\\variant_shooter\\weapons\\shooterweaponholder.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\dungeonescape\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonescape\\uht\\shooterweaponholder.generated.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\dungeonescape\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonescape\\uht\\shooterweapon.generated.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
+            "c:\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetmathlibrary.generated.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\dungeonescape\\source\\dungeonescape\\variant_shooter\\weapons\\shooterprojectile.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\dungeonescape\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonescape\\uht\\shooterprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

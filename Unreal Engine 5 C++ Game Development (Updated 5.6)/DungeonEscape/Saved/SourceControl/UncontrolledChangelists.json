@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Development (Updated 5.6)/DungeonEscape/Content/Assets/Levels/TestLevel.umap",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Development (Updated 5.6)/DungeonEscape/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Development (Updated 5.6)/DungeonEscape/Content/Assets/Blueprint/BP_Player.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Development (Updated 5.6)/DungeonEscape/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Development (Updated 5.6)/DungeonEscape/Content/Assets/Blueprint/BP_PressurePlate.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Development (Updated 5.6)/DungeonEscape/Content/Assets/Blueprint/BP_GlassStatue.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Development (Updated 5.6)/DungeonEscape/Content/Assets/Blueprint/BP_TestDoorLock.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Development (Updated 5.6)/DungeonEscape/Content/Input/Actions/IA_Interact.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Development (Updated 5.6)/DungeonEscape/Content/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}

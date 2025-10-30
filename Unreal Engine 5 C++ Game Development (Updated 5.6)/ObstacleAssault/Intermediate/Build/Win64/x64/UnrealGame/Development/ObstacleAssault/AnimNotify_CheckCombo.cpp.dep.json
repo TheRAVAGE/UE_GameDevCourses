@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\obstacleassault\\source\\obstacleassault\\variant_combat\\animation\\animnotify_checkcombo.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\obstacleassault\\intermediate\\build\\win64\\x64\\obstacleassault\\development\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\obstacleassault\\intermediate\\build\\win64\\x64\\unrealgame\\development\\obstacleassault\\definitions.obstacleassault.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\obstacleassault\\source\\obstacleassault\\variant_combat\\animation\\animnotify_checkcombo.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\obstacleassault\\intermediate\\build\\win64\\unrealgame\\inc\\obstacleassault\\uht\\animnotify_checkcombo.generated.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\obstacleassault\\source\\obstacleassault\\variant_combat\\interfaces\\combatattacker.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\obstacleassault\\intermediate\\build\\win64\\unrealgame\\inc\\obstacleassault\\uht\\combatattacker.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

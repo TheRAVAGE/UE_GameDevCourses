@@ -1,0 +1,40 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\obstacleassault\\source\\obstacleassault\\variant_combat\\ai\\envquerycontext_player.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\obstacleassault\\intermediate\\build\\win64\\x64\\obstacleassault\\development\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\obstacleassault\\intermediate\\build\\win64\\x64\\unrealgame\\development\\obstacleassault\\definitions.obstacleassault.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\obstacleassault\\source\\obstacleassault\\variant_combat\\ai\\envquerycontext_player.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\environmentquery\\envquerycontext.h",
+            "c:\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\envquerycontext.generated.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourse\\unreal engine 5 c++ game development (updated 5.6)\\obstacleassault\\intermediate\\build\\win64\\unrealgame\\inc\\obstacleassault\\uht\\envquerycontext_player.generated.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "c:\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "c:\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "c:\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "c:\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\environmentquery\\envquerytypes.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\environmentquery\\items\\envqueryitemtype.h",
+            "c:\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\envqueryitemtype.generated.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\behaviortree\\behaviortreetypes.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\behaviortree\\blackboard\\blackboardkey.h",
+            "c:\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\behaviortreetypes.generated.h",
+            "c:\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\envquerytypes.generated.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\environmentquery\\items\\envqueryitemtype_actor.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\environmentquery\\items\\envqueryitemtype_actorbase.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\environmentquery\\items\\envqueryitemtype_vectorbase.h",
+            "c:\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\envqueryitemtype_vectorbase.generated.h",
+            "c:\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\envqueryitemtype_actorbase.generated.h",
+            "c:\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\envqueryitemtype_actor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

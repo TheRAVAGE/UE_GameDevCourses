@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\unreal 5 project\\ue_gamedevcourses\\unreal engine 5 c++ game development (updated 5.6)\\introcppproject\\source\\introcppproject\\variant_shooter\\weapons\\shooterpickup.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\unreal 5 project\\ue_gamedevcourses\\unreal engine 5 c++ game development (updated 5.6)\\introcppproject\\intermediate\\build\\win64\\x64\\introcppprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourses\\unreal engine 5 c++ game development (updated 5.6)\\introcppproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\introcppproject\\definitions.introcppproject.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourses\\unreal engine 5 c++ game development (updated 5.6)\\introcppproject\\source\\introcppproject\\variant_shooter\\weapons\\shooterpickup.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourses\\unreal engine 5 c++ game development (updated 5.6)\\introcppproject\\intermediate\\build\\win64\\unrealeditor\\inc\\introcppproject\\uht\\shooterpickup.generated.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourses\\unreal engine 5 c++ game development (updated 5.6)\\introcppproject\\source\\introcppproject\\variant_shooter\\weapons\\shooterweaponholder.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourses\\unreal engine 5 c++ game development (updated 5.6)\\introcppproject\\intermediate\\build\\win64\\unrealeditor\\inc\\introcppproject\\uht\\shooterweaponholder.generated.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourses\\unreal engine 5 c++ game development (updated 5.6)\\introcppproject\\source\\introcppproject\\variant_shooter\\weapons\\shooterweapon.h",
+            "d:\\projects\\unreal 5 project\\ue_gamedevcourses\\unreal engine 5 c++ game development (updated 5.6)\\introcppproject\\intermediate\\build\\win64\\unrealeditor\\inc\\introcppproject\\uht\\shooterweapon.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

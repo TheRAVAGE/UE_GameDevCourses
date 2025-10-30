@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\Unreal 5 Project\\UE_GameDevCourses\\Unreal Engine 5 C++ Game Development (Updated 5.6)\\IntroCppProject\\Source\\IntroCppProject\\IntroCppProject.Build.cs",
+		"D:\\Projects\\Unreal 5 Project\\UE_GameDevCourses\\Unreal Engine 5 C++ Game Development (Updated 5.6)\\IntroCppProject\\Source\\IntroCppProject.Target.cs",
+		"D:\\Projects\\Unreal 5 Project\\UE_GameDevCourses\\Unreal Engine 5 C++ Game Development (Updated 5.6)\\IntroCppProject\\Source\\IntroCppProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
